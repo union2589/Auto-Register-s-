@@ -1,0 +1,9 @@
+C:\Users\OS\source\repos\atr\atr\bin\Debug\atr.exe.config
+C:\Users\OS\source\repos\atr\atr\bin\Debug\atr.exe
+C:\Users\OS\source\repos\atr\atr\bin\Debug\atr.pdb
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.Form1.resources
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.Properties.Resources.resources
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.exe
+C:\Users\OS\source\repos\atr\atr\obj\Debug\atr.pdb
